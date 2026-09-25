@@ -1,0 +1,940 @@
+[
+  {
+    "titulo": "Escolha uma promessa que você consegue cumprir",
+    "entrega": "definir público, utilidade e limite do seu perfil",
+    "dor": "Tentar falar com todo mundo dificulta escolher o próximo conteúdo. Uma promessa específica orienta o que entra e o que fica de fora.",
+    "antes": "Criar qualquer assunto que parece popular sem definir quem será ajudado.",
+    "depois": "Escolher público, utilidade e limites para decidir quais ideias produzir.",
+    "campos": [
+      "Público: pessoas com mesa pequena",
+      "Utilidade: organizar usando materiais disponíveis",
+      "Limite: exemplos simples sem promessas não verificadas"
+    ],
+    "passos": [
+      "Abra uma nota e escreva para quem você cria.",
+      "Complete uma frase com a utilidade e o limite do conteúdo.",
+      "Confira se consegue sugerir três publicações coerentes com essa frase."
+    ],
+    "pronto": "a nota contém público, utilidade, limite e três ideias coerentes",
+    "q": "Uma tendência popular não ajuda o público escolhido. Como decidir?",
+    "opcoes": [
+      "Manter apenas ideias que atendam à promessa do perfil",
+      "Copiar a tendência mesmo sem relação com o assunto",
+      "Mudar toda a proposta sempre que surgir um vídeo popular"
+    ],
+    "correta": 0,
+    "observacao": "Bia e Nelson planejam junto de um pote e envelopes. A cena é uma ilustração, não um perfil real em funcionamento.",
+    "ex1": "Bia usa a promessa para recusar assuntos que desviam o perfil.",
+    "ex2": "Nelson escolhe exemplos que consegue explicar com materiais comuns.",
+    "calma": "Se a frase parecer ampla, escolha uma situação concreta. Organizar uma mesa é mais fácil de planejar que melhorar a vida inteira.",
+    "confira": "Escolher público, utilidade e limites para decidir quais ideias produzir.",
+    "tarefa": "Escolha uma promessa que você consegue cumprir",
+    "resumo": [
+      "Público: pessoas com mesa pequena",
+      "Utilidade: organizar usando materiais disponíveis",
+      "Limite: exemplos simples sem promessas não verificadas"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Escolha uma promessa que você consegue cumprir\nPúblico: pessoas com mesa pequena — <sua decisão>\nUtilidade: organizar usando materiais disponíveis — <sua decisão>\nLimite: exemplos simples sem promessas não verificadas — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Uma tendência popular não ajuda o público escolhido. Como decidir?",
+        "Manter apenas ideias que atendam à promessa do perfil"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Escolher público, utilidade e limites para decidir quais ideias produzir."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a nota contém público, utilidade, limite e três ideias coerentes"
+      ]
+    ]
+  },
+  {
+    "titulo": "Escolha uma rede principal e prepare o acesso",
+    "entrega": "registrar uma rede de foco e conferir acesso seguro à conta",
+    "dor": "Abrir quatro perfis de uma vez multiplica tarefas antes de você aprender uma rotina que consegue manter.",
+    "antes": "Abrir quatro contas e deixar a recuperação para depois.",
+    "depois": "Escolher uma rede e conferir acesso, recuperação e caminhos básicos.",
+    "campos": [
+      "Rede principal: uma escolha com motivo",
+      "Acesso: recuperação e proteção conferidas",
+      "Caminhos: criar, rascunho e indicadores localizados"
+    ],
+    "passos": [
+      "Escolha uma rede e anote por que ela combina com seu público.",
+      "Entre na conta e confira recuperação e proteção disponíveis.",
+      "Anote onde ficam criação, rascunhos e indicadores; marque o que falta."
+    ],
+    "pronto": "a conta está acessível e os caminhos e recursos ausentes estão registrados",
+    "q": "Você não encontra um indicador mostrado no tutorial. Qual próximo passo?",
+    "opcoes": [
+      "Inventar o valor para completar a planilha do projeto",
+      "Conferir a ajuda oficial e os recursos da sua conta",
+      "Abrir quatro perfis novos para tentar aumentar a distribuição"
+    ],
+    "correta": 1,
+    "observacao": "O celular fotografa um pote numa composição simples. A imagem não reproduz a interface de nenhuma rede.",
+    "ex1": "Bia começa com uma rede para aprender o processo inteiro.",
+    "ex2": "Nelson guarda os códigos de recuperação sem incluí-los na pasta pública.",
+    "calma": "Se não recuperar o acesso, resolva isso pelo suporte oficial. Planejar em papel ajuda, mas não substitui uma conta acessível.",
+    "confira": "Escolher uma rede e conferir acesso, recuperação e caminhos básicos.",
+    "tarefa": "Escolha uma rede principal e prepare o acesso",
+    "resumo": [
+      "Rede principal: uma escolha com motivo",
+      "Acesso: recuperação e proteção conferidas",
+      "Caminhos: criar, rascunho e indicadores localizados"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Escolha uma rede principal e prepare o acesso\nRede principal: uma escolha com motivo — <sua decisão>\nAcesso: recuperação e proteção conferidas — <sua decisão>\nCaminhos: criar, rascunho e indicadores localizados — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Você não encontra um indicador mostrado no tutorial. Qual próximo passo?",
+        "Conferir a ajuda oficial e os recursos da sua conta"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Escolher uma rede e conferir acesso, recuperação e caminhos básicos."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a conta está acessível e os caminhos e recursos ausentes estão registrados"
+      ]
+    ]
+  },
+  {
+    "titulo": "Escreva uma apresentação e três primeiras ideias",
+    "entrega": "preparar uma descrição de perfil e três rascunhos coerentes",
+    "dor": "Uma descrição vaga obriga cada visitante a adivinhar o que encontrará no perfil.",
+    "antes": "Apresentar o perfil como especialista premiado sem nenhuma evidência.",
+    "depois": "Explicar tema e utilidade com uma descrição verdadeira e exemplos coerentes.",
+    "campos": [
+      "Descrição: tema, público e próximo passo",
+      "Identidade: nome e imagem autorizados",
+      "Rascunhos: apresentação, utilidade e bastidor"
+    ],
+    "passos": [
+      "Escreva e salve a apresentação verdadeira no perfil.",
+      "Confira nome, imagem e leitura no celular.",
+      "Registre três rascunhos com uma frase de objetivo cada."
+    ],
+    "pronto": "a apresentação está salva e os três rascunhos têm objetivos definidos",
+    "q": "Qual apresentação ajuda sem inventar autoridade?",
+    "opcoes": [
+      "O maior especialista do país, mesmo sem atuação comprovada",
+      "Resultados garantidos para qualquer pessoa em poucos minutos",
+      "Ideias autorais para organizar mesas pequenas, com apoio de IA"
+    ],
+    "correta": 2,
+    "observacao": "As fotografias do pote representam ideias de conteúdo. Não são publicações veiculadas nem provas de resultado.",
+    "ex1": "Bia escreve uma apresentação que cabe no campo da rede escolhida.",
+    "ex2": "Nelson separa a demonstração física de uma imagem apenas ilustrativa.",
+    "calma": "Se ainda não tiver uma imagem de perfil autorizada, use uma criação original simples. Não copie o rosto ou a marca de terceiros.",
+    "confira": "Explicar tema e utilidade com uma descrição verdadeira e exemplos coerentes.",
+    "tarefa": "Escreva uma apresentação e três primeiras ideias",
+    "resumo": [
+      "Descrição: tema, público e próximo passo",
+      "Identidade: nome e imagem autorizados",
+      "Rascunhos: apresentação, utilidade e bastidor"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Escreva uma apresentação e três primeiras ideias\nDescrição: tema, público e próximo passo — <sua decisão>\nIdentidade: nome e imagem autorizados — <sua decisão>\nRascunhos: apresentação, utilidade e bastidor — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Qual apresentação ajuda sem inventar autoridade?",
+        "Ideias autorais para organizar mesas pequenas, com apoio de IA"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Explicar tema e utilidade com uma descrição verdadeira e exemplos coerentes."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a apresentação está salva e os três rascunhos têm objetivos definidos"
+      ]
+    ]
+  },
+  {
+    "titulo": "Teste uma diferença por vez",
+    "entrega": "planejar duas aberturas mantendo o restante comparável",
+    "dor": "Quando tudo muda entre vídeos, fica difícil saber qual decisão merece ser repetida.",
+    "antes": "Mudar sete elementos e atribuir qualquer melhora apenas à primeira frase.",
+    "depois": "Mudar a abertura principal e registrar os limites da comparação.",
+    "campos": [
+      "Hipótese: resultado primeiro pode esclarecer a proposta",
+      "Variável: abertura; restante semelhante",
+      "Leitura: mesmo intervalo e conclusão provisória"
+    ],
+    "passos": [
+      "Escreva a hipótese em uma frase.",
+      "Prepare duas aberturas para a mesma entrega.",
+      "Registre o que será mantido e quando comparar."
+    ],
+    "pronto": "existem duas aberturas e uma ficha de comparação com limites",
+    "q": "Os vídeos mudaram de abertura, duração, música e público. O que você pode concluir?",
+    "opcoes": [
+      "O resultado sugere uma hipótese, mas não isola a abertura",
+      "A primeira frase foi comprovadamente a única causa da melhora",
+      "O horário explica tudo, mesmo sem nenhum registro comparável"
+    ],
+    "correta": 0,
+    "observacao": "O pote de cerâmica aparece cheio e vazio, ilustrando duas aberturas. É um exemplo alternativo, distinto do pote de vidro do projeto.",
+    "ex1": "Bia escreve a hipótese antes de olhar números.",
+    "ex2": "Nelson guarda a versão alternativa para não refazer tudo de memória.",
+    "calma": "Se a hipótese tiver três mudanças, escolha uma para começar. As outras podem virar testes posteriores.",
+    "confira": "Mudar a abertura principal e registrar os limites da comparação.",
+    "tarefa": "Teste uma diferença por vez",
+    "resumo": [
+      "Hipótese: resultado primeiro pode esclarecer a proposta",
+      "Variável: abertura; restante semelhante",
+      "Leitura: mesmo intervalo e conclusão provisória"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Teste uma diferença por vez\nHipótese: resultado primeiro pode esclarecer a proposta — <sua decisão>\nVariável: abertura; restante semelhante — <sua decisão>\nLeitura: mesmo intervalo e conclusão provisória — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Os vídeos mudaram de abertura, duração, música e público. O que você pode concluir?",
+        "O resultado sugere uma hipótese, mas não isola a abertura"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Mudar a abertura principal e registrar os limites da comparação."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "existem duas aberturas e uma ficha de comparação com limites"
+      ]
+    ]
+  },
+  {
+    "titulo": "Leia dois sinais com bases comparáveis",
+    "entrega": "comparar taxas simples sem confundir alcance e utilidade",
+    "dor": "Um número maior de ações pode vir apenas de um número maior de visualizações. A comparação precisa mostrar a base usada.",
+    "antes": "Comparar curtidas de uma rede com visualizações de outra como se fossem a mesma medida.",
+    "depois": "Usar indicador, base e intervalo compatíveis, com origem identificada.",
+    "campos": [
+      "A: 20 ÷ 1.000 × 100 = 2%",
+      "B: 15 ÷ 500 × 100 = 3%",
+      "Conclusão: B tem maior taxa; A tem mais ações totais"
+    ],
+    "passos": [
+      "Abra o quadro fictício no caderno.",
+      "Calcule as duas taxas e confira o denominador.",
+      "Escreva uma conclusão limitada e diferencie taxa de total."
+    ],
+    "pronto": "as duas taxas estão corretas e a conclusão identifica dados fictícios",
+    "q": "A tem 20 ações em 1.000 visualizações; B tem 15 em 500. Qual leitura é correta?",
+    "opcoes": [
+      "A tem maior taxa porque recebeu mais ações no total",
+      "B tem maior taxa; A tem mais ações no total",
+      "B prova que qualquer próximo vídeo terá resultado superior"
+    ],
+    "correta": 1,
+    "observacao": "Bia e Nelson examinam referências na mesa. Os números didáticos estão no quadro da aula, sem simular uma tela de análise.",
+    "ex1": "Bia anota a definição do indicador antes de comparar.",
+    "ex2": "Nelson mantém desconhecido quando o painel não fornece o dado.",
+    "calma": "Não precisa dominar estatística para começar. Registre o que foi contado, qual base foi usada e quando você observou.",
+    "confira": "Usar indicador, base e intervalo compatíveis, com origem identificada.",
+    "tarefa": "Leia dois sinais com o mesmo denominador",
+    "resumo": [
+      "A: 20 ÷ 1.000 × 100 = 2%",
+      "B: 15 ÷ 500 × 100 = 3%",
+      "Conclusão: B tem maior taxa; A tem mais ações totais"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Leia dois sinais com o mesmo denominador\nA: 20 ÷ 1.000 × 100 = 2% — <sua decisão>\nB: 15 ÷ 500 × 100 = 3% — <sua decisão>\nConclusão: B tem maior taxa; A tem mais ações totais — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A tem 20 ações em 1.000 visualizações; B tem 15 em 500. Qual leitura é correta?",
+        "B tem maior taxa; A tem mais ações no total"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Usar indicador, base e intervalo compatíveis, com origem identificada."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "as duas taxas estão corretas e a conclusão identifica dados fictícios"
+      ]
+    ]
+  },
+  {
+    "titulo": "Transforme uma ideia em carrossel legível",
+    "entrega": "planejar três páginas com começo, explicação e fechamento",
+    "dor": "Dividir uma frase longa em muitas páginas não cria uma sequência útil. Cada página precisa ter uma função.",
+    "antes": "Esconder toda a informação até a última página para forçar passagem.",
+    "depois": "Dar uma função útil a cada página e cumprir a promessa de abertura.",
+    "campos": [
+      "Página 1: problema visível e título curto",
+      "Página 2: solução correspondente",
+      "Página 3: cuidado e próximo passo"
+    ],
+    "passos": [
+      "Escreva o título e a função de três páginas.",
+      "Indique qual imagem própria ou ilustrativa acompanha cada uma.",
+      "Leia a sequência e confira se ela cumpre a primeira promessa."
+    ],
+    "pronto": "o roteiro de três páginas contém títulos, imagens previstas e funções",
+    "q": "A primeira página promete organizar lápis. Qual segunda página mantém a continuidade?",
+    "opcoes": [
+      "Uma oferta sem relação com os materiais mostrados",
+      "Uma frase genérica sobre sucesso sem explicar o pote",
+      "A demonstração dos lápis reunidos num recipiente estável"
+    ],
+    "correta": 2,
+    "observacao": "As três fotografias sugerem etapas de uma sequência. São ilustrações e não comprovam uma transformação física.",
+    "ex1": "Bia confere se cada página oferece informação nova.",
+    "ex2": "Nelson acrescenta o cuidado com a integridade do recipiente.",
+    "calma": "Se não tiver ferramenta de design, planeje as páginas numa nota. A produção visual pode ser feita depois com o curso de Figma.",
+    "confira": "Dar uma função útil a cada página e cumprir a promessa de abertura.",
+    "tarefa": "Transforme uma ideia em carrossel legível",
+    "resumo": [
+      "Página 1: problema visível e título curto",
+      "Página 2: solução correspondente",
+      "Página 3: cuidado e próximo passo"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Transforme uma ideia em carrossel legível\nPágina 1: problema visível e título curto — <sua decisão>\nPágina 2: solução correspondente — <sua decisão>\nPágina 3: cuidado e próximo passo — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A primeira página promete organizar lápis. Qual segunda página mantém a continuidade?",
+        "A demonstração dos lápis reunidos num recipiente estável"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Dar uma função útil a cada página e cumprir a promessa de abertura."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o roteiro de três páginas contém títulos, imagens previstas e funções"
+      ]
+    ]
+  },
+  {
+    "titulo": "Pesquise referências sem copiar o trabalho",
+    "entrega": "montar uma ficha inicial de referências com origem e função",
+    "dor": "Guardar muitos vídeos sem anotar o que você aprendeu transforma pesquisa numa coleção difícil de usar.",
+    "antes": "Copiar um vídeo inteiro porque ele aparece publicamente na rede.",
+    "depois": "Registrar origem e função para criar uma execução própria.",
+    "campos": [
+      "Origem: endereço, autor e data",
+      "Análise: abertura, promessa, demonstração e convite",
+      "Escopo: três agora; dez antes da adaptação"
+    ],
+    "passos": [
+      "Encontre três referências públicas pertinentes.",
+      "Registre origem e os quatro campos com palavras próprias.",
+      "Reserve uma etapa para completar dez referências antes da aula 9."
+    ],
+    "pronto": "três referências estão analisadas e a pesquisa restante foi planejada",
+    "q": "O vídeo de referência é público. O que isso autoriza automaticamente?",
+    "opcoes": [
+      "Analisar sua estrutura, sem assumir licença para copiar arquivos",
+      "Reutilizar toda a gravação sem consultar direitos ou condições",
+      "Imitar a identidade do autor como se o perfil fosse seu"
+    ],
+    "correta": 0,
+    "observacao": "Bia observa o celular e anota. A ilustração não mostra conteúdo de terceiros nem um acervo pesquisado.",
+    "ex1": "Bia registra por que guardou cada referência.",
+    "ex2": "Nelson descreve a função de um plano sem copiar a fala original.",
+    "calma": "Se não encontrar dez bons exemplos numa busca, varie as palavras do tema. Não complete a lista com referências irrelevantes só pelo número.",
+    "confira": "Registrar origem e função para criar uma execução própria.",
+    "tarefa": "Pesquise referências sem copiar o trabalho",
+    "resumo": [
+      "Origem: endereço, autor e data",
+      "Análise: abertura, promessa, demonstração e convite",
+      "Escopo: três agora; dez antes da adaptação"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Pesquise referências sem copiar o trabalho\nOrigem: endereço, autor e data — <sua decisão>\nAnálise: abertura, promessa, demonstração e convite — <sua decisão>\nEscopo: três agora; dez antes da adaptação — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O vídeo de referência é público. O que isso autoriza automaticamente?",
+        "Analisar sua estrutura, sem assumir licença para copiar arquivos"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Registrar origem e função para criar uma execução própria."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "três referências estão analisadas e a pesquisa restante foi planejada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Desmonte um vídeo em quatro camadas",
+    "entrega": "analisar uma referência distinguindo imagem, texto, som e estrutura",
+    "dor": "Uma abertura pode parecer forte por motivos diferentes. Separar as camadas ajuda a reconhecer o que realmente chamou sua atenção.",
+    "antes": "Anotar ficou viral porque a música é boa sem acesso a evidências.",
+    "depois": "Descrever as quatro camadas e separar observação de hipótese.",
+    "campos": [
+      "Imagem: o que aparece e quando",
+      "Texto e som: o que informa e acompanha",
+      "Estrutura: ordem, função e hipótese limitada"
+    ],
+    "passos": [
+      "Assista a uma referência em quatro passagens.",
+      "Anote uma observação por camada com tempo localizável.",
+      "Escolha uma técnica e escreva uma hipótese para seu próprio conteúdo."
+    ],
+    "pronto": "a ficha registra quatro camadas, tempos e uma hipótese identificada",
+    "q": "Você viu o objeto no primeiro segundo. Qual anotação distingue fato e hipótese?",
+    "opcoes": [
+      "O objeto inicial garante alcance em qualquer publicação",
+      "Objeto primeiro; talvez facilite entender o assunto",
+      "A música provou que a audiência comprará o produto"
+    ],
+    "correta": 1,
+    "observacao": "Fotografias separadas representam decisões visuais. Os tempos e a análise precisam vir do vídeo que você realmente assistiu.",
+    "ex1": "Bia revê o mesmo trecho para separar som e imagem.",
+    "ex2": "Nelson anota o tempo antes de descrever o que percebeu.",
+    "calma": "Se o vídeo for longo, escolha um trecho curto e identifique o intervalo. Não apresente esse recorte como análise do vídeo inteiro.",
+    "confira": "Descrever as quatro camadas e separar observação de hipótese.",
+    "tarefa": "Desmonte um vídeo em quatro camadas",
+    "resumo": [
+      "Imagem: o que aparece e quando",
+      "Texto e som: o que informa e acompanha",
+      "Estrutura: ordem, função e hipótese limitada"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Desmonte um vídeo em quatro camadas\nImagem: o que aparece e quando — <sua decisão>\nTexto e som: o que informa e acompanha — <sua decisão>\nEstrutura: ordem, função e hipótese limitada — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Você viu o objeto no primeiro segundo. Qual anotação distingue fato e hipótese?",
+        "Objeto primeiro; talvez facilite entender o assunto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Descrever as quatro camadas e separar observação de hipótese."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a ficha registra quatro camadas, tempos e uma hipótese identificada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Crie três adaptações com execução própria",
+    "entrega": "transformar uma estrutura observada em três ideias originais",
+    "dor": "Trocar apenas o objeto pode preservar uma cópia quase inteira. A adaptação precisa nascer da sua pergunta e da sua demonstração.",
+    "antes": "Copiar fala e sequência de outro criador trocando apenas uma palavra.",
+    "depois": "Usar uma estrutura geral para responder com exemplos, planos e palavras próprios.",
+    "campos": [
+      "Pesquisa: dez referências identificadas",
+      "Variações: três respostas autorais",
+      "Escolha: uma ideia viável para produzir"
+    ],
+    "passos": [
+      "Confira as dez referências e escolha uma estrutura geral.",
+      "Escreva três ideias com abertura, demonstração e encerramento próprios.",
+      "Selecione uma para o vídeo final e justifique pela clareza e esforço."
+    ],
+    "pronto": "existem dez referências e três ideias próprias, com uma selecionada",
+    "q": "Qual adaptação preserva autoria e coerência?",
+    "opcoes": [
+      "Repetir a fala inteira com a mesma voz de outro criador",
+      "Usar todos os planos alheios apenas mudando a cor do texto",
+      "Criar seus planos e palavras para outra resposta útil"
+    ],
+    "correta": 2,
+    "observacao": "Variações de composição ilustram escolhas possíveis. Elas não reproduzem trabalhos de um criador pesquisado.",
+    "ex1": "Bia muda a resposta e a execução, mantendo só a estrutura geral.",
+    "ex2": "Nelson escolhe uma ideia que consegue demonstrar com clareza.",
+    "calma": "Se a adaptação ainda depender do vídeo original para funcionar, reescreva a pergunta e planeje seus próprios planos.",
+    "confira": "Usar uma estrutura geral para responder com exemplos, planos e palavras próprios.",
+    "tarefa": "Crie três adaptações com execução própria",
+    "resumo": [
+      "Pesquisa: dez referências identificadas",
+      "Variações: três respostas autorais",
+      "Escolha: uma ideia viável para produzir"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Crie três adaptações com execução própria\nPesquisa: dez referências identificadas — <sua decisão>\nVariações: três respostas autorais — <sua decisão>\nEscolha: uma ideia viável para produzir — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Qual adaptação preserva autoria e coerência?",
+        "Criar seus planos e palavras para outra resposta útil"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Usar uma estrutura geral para responder com exemplos, planos e palavras próprios."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "existem dez referências e três ideias próprias, com uma selecionada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Edite para entender antes de acelerar",
+    "entrega": "registrar uma decisão de ritmo em um roteiro ou vídeo próprio",
+    "dor": "Cortar a cada segundo pode cansar e esconder a explicação. Ritmo útil acompanha a quantidade de informação.",
+    "antes": "Acelerar todos os planos para tentar forçar atenção sem conferir leitura.",
+    "depois": "Ajustar cada trecho à informação que precisa ser compreendida.",
+    "campos": [
+      "Critérios: foco, resultado, voz, texto, corte e pausa",
+      "Ajuste: um trecho com tempo ou posição",
+      "Validação: conferir no celular antes de publicar"
+    ],
+    "passos": [
+      "Leia o roteiro ou assista ao seu vídeo com os seis critérios.",
+      "Localize um ajuste necessário ou registre manter com os critérios conferidos.",
+      "Escreva a decisão e como vai conferir a compreensão."
+    ],
+    "pronto": "um trecho tem ajuste justificado ou decisão de manter com critérios conferidos",
+    "q": "O texto desaparece antes de você terminar a leitura. Qual ajuste atende ao problema?",
+    "opcoes": [
+      "Reduzir o texto ou ampliar seu tempo de exibição",
+      "Adicionar cortes mais rápidos em todos os planos",
+      "Aumentar a música para disfarçar a falta de leitura"
+    ],
+    "correta": 0,
+    "observacao": "Bia coloca um lápis no pote enquanto Nelson observa. A cena estática ilustra a ação; não demonstra ritmo ou retenção de um vídeo.",
+    "ex1": "Bia corta quando muda a informação, não por uma contagem fixa.",
+    "ex2": "Nelson confere se a explicação acompanha o detalhe mostrado.",
+    "calma": "Se estiver em dúvida, mantenha um corte simples. Um efeito só ajuda quando preserva a informação necessária.",
+    "confira": "Ajustar cada trecho à informação que precisa ser compreendida.",
+    "tarefa": "Edite para entender antes de acelerar",
+    "resumo": [
+      "Critérios: foco, resultado, voz, texto, corte e pausa",
+      "Ajuste: um trecho com tempo ou posição",
+      "Validação: conferir no celular antes de publicar"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Edite para entender antes de acelerar\nCritérios: foco, resultado, voz, texto, corte e pausa — <sua decisão>\nAjuste: um trecho com tempo ou posição — <sua decisão>\nValidação: conferir no celular antes de publicar — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O texto desaparece antes de você terminar a leitura. Qual ajuste atende ao problema?",
+        "Reduzir o texto ou ampliar seu tempo de exibição"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Ajustar cada trecho à informação que precisa ser compreendida."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "um trecho tem ajuste justificado ou decisão de manter com critérios conferidos"
+      ]
+    ]
+  },
+  {
+    "titulo": "Faça uma revisão privada antes da publicação",
+    "entrega": "preparar uma ficha de revisão de imagem, áudio e compreensão",
+    "dor": "Um teste privado encontra defeitos, mas não prevê como desconhecidos vão reagir ao conteúdo na rede.",
+    "antes": "Chamar um arquivo privado de teste comprovado de viralização.",
+    "depois": "Usar a revisão privada para clareza e separar isso de distribuição pública.",
+    "campos": [
+      "Revisão: cinco perguntas verificáveis",
+      "Privacidade: arquivo local ou opção conferida",
+      "Limite: clareza não prevê distribuição"
+    ],
+    "passos": [
+      "Copie as cinco perguntas numa ficha de revisão.",
+      "Escolha revisão local e, se possível, uma pessoa autorizada.",
+      "Marque os itens pendentes até conferir o arquivo produzido."
+    ],
+    "pronto": "a ficha e a condição de revisão estão preparadas, sem aprovação inventada",
+    "q": "Um Reel de teste será mostrado inicialmente a não seguidores. Ele é privado?",
+    "opcoes": [
+      "Sim, porque apenas você pode enxergar qualquer reprodução",
+      "Não; é uma forma de distribuição, não revisão privada",
+      "Sim, porque todas as contas que recebem o vídeo são suas"
+    ],
+    "correta": 1,
+    "observacao": "Fones e uma impressão vertical ilustram revisão. A cena não mostra uma rede social nem indicadores de audiência.",
+    "ex1": "Bia registra quem participou da revisão e o que foi observado.",
+    "ex2": "Nelson deixa pendente o item que ainda não conseguiu conferir.",
+    "calma": "Se ninguém puder revisar, faça duas passagens separadas: uma para som e outra para imagem. Registre que foi uma revisão individual.",
+    "confira": "Usar a revisão privada para clareza e separar isso de distribuição pública.",
+    "tarefa": "Faça uma revisão privada antes da publicação",
+    "resumo": [
+      "Revisão: cinco perguntas verificáveis",
+      "Privacidade: arquivo local ou opção conferida",
+      "Limite: clareza não prevê distribuição"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Faça uma revisão privada antes da publicação\nRevisão: cinco perguntas verificáveis — <sua decisão>\nPrivacidade: arquivo local ou opção conferida — <sua decisão>\nLimite: clareza não prevê distribuição — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Um Reel de teste será mostrado inicialmente a não seguidores. Ele é privado?",
+        "Não; é uma forma de distribuição, não revisão privada"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Usar a revisão privada para clareza e separar isso de distribuição pública."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a ficha e a condição de revisão estão preparadas, sem aprovação inventada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Publique com uma lista curta de conferência",
+    "entrega": "preparar uma legenda, identificação e lista de publicação",
+    "dor": "Uma peça pronta pode sair sem crédito, com descrição incorreta ou visibilidade diferente da planejada.",
+    "antes": "Publicar sem conferir licença, identificação de IA e visibilidade.",
+    "depois": "Revisar o arquivo e os campos antes de confirmar a publicação.",
+    "campos": [
+      "Legenda: assunto verdadeiro e próximo passo",
+      "Direitos: imagem, voz, música e créditos",
+      "Publicação: identificação, capa e visibilidade a conferir"
+    ],
+    "passos": [
+      "Escreva a legenda sem alegar uma demonstração física inexistente.",
+      "Registre identificação de IA e créditos necessários para sua rede.",
+      "Prepare a lista e mantenha a publicação pendente até a aula 17."
+    ],
+    "pronto": "a legenda e a lista estão prontas, com as condições de uso identificadas",
+    "q": "A rede exige um controle próprio de conteúdo sintético. O que fazer?",
+    "opcoes": [
+      "Ignorar o controle se a imagem estiver visualmente bonita",
+      "Trocar o nome do arquivo para tentar esconder sua origem",
+      "Usar o controle exigido e manter o contexto verdadeiro"
+    ],
+    "correta": 2,
+    "observacao": "Bia e Nelson conferem uma lista junto do pote. A imagem representa preparação e não uma publicação confirmada.",
+    "ex1": "Bia revisa os campos antes de confirmar a publicação.",
+    "ex2": "Nelson não usa uma ilustração como prova de uma transformação real.",
+    "calma": "Se não souber se tem direito de usar uma faixa, escolha outra com permissão clara ou grave sua própria voz sem música.",
+    "confira": "Revisar o arquivo e os campos antes de confirmar a publicação.",
+    "tarefa": "Publique com uma lista curta de conferência",
+    "resumo": [
+      "Legenda: assunto verdadeiro e próximo passo",
+      "Direitos: imagem, voz, música e créditos",
+      "Publicação: identificação, capa e visibilidade a conferir"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Publique com uma lista curta de conferência\nLegenda: assunto verdadeiro e próximo passo — <sua decisão>\nDireitos: imagem, voz, música e créditos — <sua decisão>\nPublicação: identificação, capa e visibilidade a conferir — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A rede exige um controle próprio de conteúdo sintético. O que fazer?",
+        "Usar o controle exigido e manter o contexto verdadeiro"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Revisar o arquivo e os campos antes de confirmar a publicação."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a legenda e a lista estão prontas, com as condições de uso identificadas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Escreva uma abertura ligada à entrega",
+    "entrega": "escolher uma abertura que o vídeo realmente consegue cumprir",
+    "dor": "Uma frase chamativa perde valor quando o restante do vídeo não responde ao que ela prometeu.",
+    "antes": "Prometer transformar a vida para apresentar apenas um pote de lápis.",
+    "depois": "Anunciar a utilidade concreta que será demonstrada no vídeo.",
+    "campos": [
+      "Abertura: pergunta ou resultado reconhecível",
+      "Entrega: demonstração correspondente",
+      "Convite: ação pertinente e sem urgência falsa"
+    ],
+    "passos": [
+      "Leia o acervo e escolha três aberturas pertinentes.",
+      "Adapte as frases ao seu roteiro e materiais.",
+      "Selecione uma e escreva qual trecho cumpre sua promessa."
+    ],
+    "pronto": "há uma abertura escolhida e um trecho que entrega o prometido",
+    "q": "Qual abertura corresponde a uma demonstração simples de organização?",
+    "opcoes": [
+      "Uma ideia para reunir os lápis que ficam pela mesa",
+      "O segredo infalível que transforma toda sua vida hoje",
+      "A técnica garantida para nunca mais perder qualquer objeto"
+    ],
+    "correta": 0,
+    "observacao": "O pote com lápis em destaque contrasta com materiais espalhados. É uma ilustração de organização, sem resultado físico comprovado.",
+    "ex1": "Bia confere a promessa antes de escolher a frase mais chamativa.",
+    "ex2": "Nelson usa uma dificuldade que reconhece no cotidiano.",
+    "calma": "Se nenhuma abertura parecer natural, explique a ideia como numa conversa. Depois retire palavras até ficar clara.",
+    "confira": "Anunciar a utilidade concreta que será demonstrada no vídeo.",
+    "tarefa": "Escreva uma abertura ligada à entrega",
+    "resumo": [
+      "Abertura: pergunta ou resultado reconhecível",
+      "Entrega: demonstração correspondente",
+      "Convite: ação pertinente e sem urgência falsa"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Escreva uma abertura ligada à entrega\nAbertura: pergunta ou resultado reconhecível — <sua decisão>\nEntrega: demonstração correspondente — <sua decisão>\nConvite: ação pertinente e sem urgência falsa — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Qual abertura corresponde a uma demonstração simples de organização?",
+        "Uma ideia para reunir os lápis que ficam pela mesa"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Anunciar a utilidade concreta que será demonstrada no vídeo."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "há uma abertura escolhida e um trecho que entrega o prometido"
+      ]
+    ]
+  },
+  {
+    "titulo": "Abra uma curiosidade e feche a resposta",
+    "entrega": "revisar uma promessa de curiosidade sem esconder informação essencial",
+    "dor": "Uma pergunta sem resposta pode gerar frustração. A curiosidade funciona melhor quando o conteúdo entrega uma descoberta real.",
+    "antes": "Abrir uma pergunta que nunca recebe resposta para prolongar a espera.",
+    "depois": "Criar uma pergunta pertinente e indicar o trecho que a resolve.",
+    "campos": [
+      "Curiosidade: pergunta concreta",
+      "Resposta: trecho visível e suficiente",
+      "Honestidade: condições e origem das imagens identificadas"
+    ],
+    "passos": [
+      "Escreva uma pergunta pertinente ao vídeo.",
+      "Indique o trecho que responde e o que precisa aparecer.",
+      "Retire promessas sem resposta e identifique ilustrações de IA."
+    ],
+    "pronto": "a pergunta tem resposta localizável e não sugere prova inexistente",
+    "q": "Duas imagens geradas mostram antes e depois. Como apresentá-las?",
+    "opcoes": [
+      "Como prova de uma transformação física já testada",
+      "Como ilustrações da ideia, sem alegar teste físico",
+      "Como depoimento real de alguém que nunca participou"
+    ],
+    "correta": 1,
+    "observacao": "O envelope fechado e aberto ilustra uma revelação. A imagem gerada não comprova medidas ou capacidade de um objeto físico.",
+    "ex1": "Bia marca no roteiro onde cada pergunta é respondida.",
+    "ex2": "Nelson evita prometer capacidade sem conferir o objeto real.",
+    "calma": "Se a resposta só cabe num vídeo muito maior, reduza a pergunta. Você pode desenvolver outra parte em uma publicação futura.",
+    "confira": "Criar uma pergunta pertinente e indicar o trecho que a resolve.",
+    "tarefa": "Abra uma curiosidade e feche a resposta",
+    "resumo": [
+      "Curiosidade: pergunta concreta",
+      "Resposta: trecho visível e suficiente",
+      "Honestidade: condições e origem das imagens identificadas"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Abra uma curiosidade e feche a resposta\nCuriosidade: pergunta concreta — <sua decisão>\nResposta: trecho visível e suficiente — <sua decisão>\nHonestidade: condições e origem das imagens identificadas — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Duas imagens geradas mostram antes e depois. Como apresentá-las?",
+        "Como ilustrações da ideia, sem alegar teste físico"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Criar uma pergunta pertinente e indicar o trecho que a resolve."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a pergunta tem resposta localizável e não sugere prova inexistente"
+      ]
+    ]
+  },
+  {
+    "titulo": "Use a IA para organizar, depois confira o roteiro",
+    "entrega": "revisar um roteiro curto com público, cenas e limites definidos",
+    "dor": "Um pedido genérico pode devolver frases bonitas, instruções impossíveis ou números inventados.",
+    "antes": "Publicar a primeira resposta sem conferir duração, afirmações e execução.",
+    "depois": "Revisar o roteiro com cenas viáveis e promessas que você pode sustentar.",
+    "campos": [
+      "Pedido: público, duração, cenas e limites",
+      "Revisão: fala, viabilidade e afirmações",
+      "Registro: primeira versão, ajuste e versão aprovada"
+    ],
+    "passos": [
+      "Use o pedido no assistente ou escreva uma primeira versão própria.",
+      "Leia em voz alta e confira cenas e afirmações.",
+      "Salve uma versão revisada com uma mudança justificada."
+    ],
+    "pronto": "duas versões de roteiro estão salvas e a mudança foi justificada",
+    "q": "O assistente incluiu uma economia de dinheiro sem fonte. Qual decisão?",
+    "opcoes": [
+      "Manter o valor porque parece plausível para o público",
+      "Aumentar o número para tornar a abertura mais chamativa",
+      "Retirar a afirmação ou sustentá-la com evidência adequada"
+    ],
+    "correta": 2,
+    "observacao": "Bia escreve enquanto Nelson acompanha. A cena ilustra revisão humana, sem simular uma resposta de ferramenta.",
+    "ex1": "Bia corta uma afirmação que não consegue sustentar.",
+    "ex2": "Nelson lê a fala em voz alta antes de decidir a duração.",
+    "calma": "Se a ferramenta estiver indisponível, use a mesma ficha para escrever. O objetivo é um roteiro revisado, não depender de uma marca.",
+    "confira": "Revisar o roteiro com cenas viáveis e promessas que você pode sustentar.",
+    "tarefa": "Use a IA para organizar, depois confira o roteiro",
+    "resumo": [
+      "Pedido: público, duração, cenas e limites",
+      "Revisão: fala, viabilidade e afirmações",
+      "Registro: primeira versão, ajuste e versão aprovada"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Use a IA para organizar, depois confira o roteiro\nPedido: público, duração, cenas e limites — <sua decisão>\nRevisão: fala, viabilidade e afirmações — <sua decisão>\nRegistro: primeira versão, ajuste e versão aprovada — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O assistente incluiu uma economia de dinheiro sem fonte. Qual decisão?",
+        "Retirar a afirmação ou sustentá-la com evidência adequada"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Revisar o roteiro com cenas viáveis e promessas que você pode sustentar."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "duas versões de roteiro estão salvas e a mudança foi justificada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Monte uma semana que cabe na sua rotina",
+    "entrega": "preencher um calendário de sete dias com três pilares",
+    "dor": "Um calendário impossível aumenta o trabalho pendente. A frequência precisa incluir tempo de produzir e observar.",
+    "antes": "Planejar sete vídeos sem reservar nenhum tempo para produzir ou revisar.",
+    "depois": "Distribuir produção, publicação e observação em uma semana viável.",
+    "campos": [
+      "Pilares: três categorias e duas ideias por categoria",
+      "Semana: tarefas com datas e situação verdadeira",
+      "Cópia: calendário exportado e observações agendadas"
+    ],
+    "passos": [
+      "Registre três pilares e seis ideias numa nota.",
+      "Preencha os sete dias no planejador com datas viáveis.",
+      "Exporte a cópia e confira publicação e observações previstas."
+    ],
+    "pronto": "os pilares e o calendário existem, com cópia e situações corretas",
+    "q": "Você preencheu o calendário, mas ainda não produziu o vídeo. Qual situação usar?",
+    "opcoes": [
+      "Planejado, mantendo produção e publicação pendentes",
+      "Publicado, porque o tema e a data já foram escolhidos",
+      "Concluído, porque todas as linhas receberam algum texto"
+    ],
+    "correta": 0,
+    "observacao": "Cartões de planejamento ilustram a organização da semana. O calendário editável contém os sete registros verificáveis.",
+    "ex1": "Bia reserva espaço para observar, além de produzir.",
+    "ex2": "Nelson escolhe datas que consegue cumprir sem prometer postagem diária.",
+    "calma": "Se a semana estiver cheia, reduza o número de publicações. A entrega pede uma publicação revisada, não sete vídeos diários.",
+    "confira": "Distribuir produção, publicação e observação em uma semana viável.",
+    "tarefa": "Monte uma semana que cabe na sua rotina",
+    "resumo": [
+      "Pilares: três categorias e duas ideias por categoria",
+      "Semana: tarefas com datas e situação verdadeira",
+      "Cópia: calendário exportado e observações agendadas"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Monte uma semana que cabe na sua rotina\nPilares: três categorias e duas ideias por categoria — <sua decisão>\nSemana: tarefas com datas e situação verdadeira — <sua decisão>\nCópia: calendário exportado e observações agendadas — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Você preencheu o calendário, mas ainda não produziu o vídeo. Qual situação usar?",
+        "Planejado, mantendo produção e publicação pendentes"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Distribuir produção, publicação e observação em uma semana viável."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "os pilares e o calendário existem, com cópia e situações corretas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Produza e publique o primeiro vídeo conferido",
+    "entrega": "revisar e publicar um vídeo autoral com identificação adequada",
+    "dor": "Roteiro e calendário só viram uma publicação quando o arquivo existe, foi conferido e está acessível na visibilidade escolhida.",
+    "antes": "Marcar publicado quando existe apenas um roteiro ou um arquivo no editor.",
+    "depois": "Conferir o MP4 e a publicação acessível antes de registrar a entrega.",
+    "campos": [
+      "Arquivo: MP4 vertical revisado fora do editor",
+      "Publicação: legenda, direitos, IA e visibilidade conferidos",
+      "Registro: endereço, data e fontes preservados"
+    ],
+    "passos": [
+      "Produza e abra o MP4; conclua a revisão da aula 11.",
+      "Confira a lista da aula 12 e publique manualmente na sua conta.",
+      "Abra a publicação e registre endereço, data e próxima observação."
+    ],
+    "pronto": "o MP4 e a publicação existem, foram conferidos e estão registrados",
+    "q": "A peça está salva no editor, mas não foi exportada. Como registrar?",
+    "opcoes": [
+      "Como publicada, porque a montagem já pode ser vista por você",
+      "Como pendente de exportação, revisão e publicação",
+      "Como resultado de audiência, mesmo sem endereço público"
+    ],
+    "correta": 1,
+    "observacao": "O celular registra a organização do pote. A ilustração não substitui o arquivo e a publicação exigidos na atividade.",
+    "ex1": "Bia confere a publicação depois de sair do editor.",
+    "ex2": "Nelson preserva o roteiro e as fontes junto do MP4 final.",
+    "calma": "Se não puder publicar agora, deixe essa etapa pendente e retome depois. A revisão do arquivo continua sendo um avanço real.",
+    "confira": "Conferir o MP4 e a publicação acessível antes de registrar a entrega.",
+    "tarefa": "Produza e publique o primeiro vídeo conferido",
+    "resumo": [
+      "Arquivo: MP4 vertical revisado fora do editor",
+      "Publicação: legenda, direitos, IA e visibilidade conferidos",
+      "Registro: endereço, data e fontes preservados"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Produza e publique o primeiro vídeo conferido\nArquivo: MP4 vertical revisado fora do editor — <sua decisão>\nPublicação: legenda, direitos, IA e visibilidade conferidos — <sua decisão>\nRegistro: endereço, data e fontes preservados — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A peça está salva no editor, mas não foi exportada. Como registrar?",
+        "Como pendente de exportação, revisão e publicação"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Conferir o MP4 e a publicação acessível antes de registrar a entrega."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o MP4 e a publicação existem, foram conferidos e estão registrados"
+      ]
+    ],
+    "aviso_tempo": "Produção e publicação vêm antes da conferência curta. Reserve tempo adicional para gerar, gravar, editar e corrigir."
+  },
+  {
+    "titulo": "Observe e decida o próximo teste",
+    "entrega": "registrar a primeira observação real e uma próxima ação limitada",
+    "dor": "Uma publicação isolada não define o futuro do perfil. O registro deve ajudar a escolher uma próxima decisão possível.",
+    "antes": "Afirmar que descobriu uma fórmula viral depois de uma única publicação.",
+    "depois": "Registrar evidência, incerteza e um próximo teste pertinente.",
+    "campos": [
+      "Observação: data, intervalo e indicadores disponíveis",
+      "Limite: ausência e hipótese identificadas",
+      "Próxima ação: uma mudança e nova data de consulta"
+    ],
+    "passos": [
+      "No intervalo previsto, consulte e registre os dados ou sua ausência.",
+      "Escreva o que sabe, o que não sabe e uma próxima ação.",
+      "Confira a pasta final e mantenha o acompanhamento de sete dias agendado."
+    ],
+    "pronto": "a consulta inicial ocorreu e a pasta reúne entrega, limites e próxima ação",
+    "q": "O painel não mostra o indicador que você planejou acompanhar. Qual registro é correto?",
+    "opcoes": [
+      "Zero, porque ausência de informação significa ausência de ações",
+      "Um valor fictício para permitir calcular a taxa planejada",
+      "Não disponível, com data da consulta e próxima verificação"
+    ],
+    "correta": 2,
+    "observacao": "Bia e Nelson retomam as anotações. A cena representa reflexão, sem sugerir resultados de alcance ou renda.",
+    "ex1": "Bia separa uma pergunta real de uma conclusão sobre toda a audiência.",
+    "ex2": "Nelson agenda a próxima consulta sem inventar números.",
+    "calma": "Se o resultado decepcionar, volte à promessa e à clareza do vídeo. Escolha uma mudança pequena que você consegue observar.",
+    "confira": "Registrar evidência, incerteza e um próximo teste pertinente.",
+    "tarefa": "Observe e decida o próximo teste",
+    "resumo": [
+      "Observação: data, intervalo e indicadores disponíveis",
+      "Limite: ausência e hipótese identificadas",
+      "Próxima ação: uma mudança e nova data de consulta"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Pesquisa, produção e observação posteriores exigem tempo adicional.",
+    "molde": "Projeto: Reuso de Bolso ou seu projeto\nAula: Observe e decida o próximo teste\nObservação: data, intervalo e indicadores disponíveis — <sua decisão>\nLimite: ausência e hipótese identificadas — <sua decisão>\nPróxima ação: uma mudança e nova data de consulta — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O painel não mostra o indicador que você planejou acompanhar. Qual registro é correto?",
+        "Não disponível, com data da consulta e próxima verificação"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Registrar evidência, incerteza e um próximo teste pertinente."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a consulta inicial ocorreu e a pasta reúne entrega, limites e próxima ação"
+      ]
+    ],
+    "aviso_tempo": "A consulta ocorre após o intervalo escolhido. Esperar 48 horas ou sete dias não cabe nos dez minutos de trabalho ativo."
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "numero": 1,
+    "grupo": "Resultado primeiro",
+    "abertura": "Uma ideia para reunir os lápis da mesa.",
+    "entrega": "Mostrar os lápis reunidos e explicar o recipiente."
+  },
+  {
+    "numero": 2,
+    "grupo": "Resultado primeiro",
+    "abertura": "Veja onde guardei este cartão.",
+    "entrega": "Revelar o cartão num envelope compatível."
+  },
+  {
+    "numero": 3,
+    "grupo": "Resultado primeiro",
+    "abertura": "Este pequeno espaço pode receber os papéis soltos.",
+    "entrega": "Mostrar uma bandeja e seus limites de tamanho."
+  },
+  {
+    "numero": 4,
+    "grupo": "Pergunta cotidiana",
+    "abertura": "Seus lápis também ficam espalhados?",
+    "entrega": "Responder com uma organização concreta."
+  },
+  {
+    "numero": 5,
+    "grupo": "Pergunta cotidiana",
+    "abertura": "Onde vai o cartão depois de ler a mensagem?",
+    "entrega": "Mostrar uma opção de guarda."
+  },
+  {
+    "numero": 6,
+    "grupo": "Pergunta cotidiana",
+    "abertura": "Qual papel você precisa encontrar primeiro?",
+    "entrega": "Separar papéis por uma necessidade definida."
+  },
+  {
+    "numero": 7,
+    "grupo": "Detalhe que importa",
+    "abertura": "Antes de usar o pote, confira esta borda.",
+    "entrega": "Mostrar a inspeção de integridade, sem alegar segurança de um objeto gerado."
+  },
+  {
+    "numero": 8,
+    "grupo": "Detalhe que importa",
+    "abertura": "Esta dobra muda o espaço do envelope.",
+    "entrega": "Explicar a dobra no exemplo apresentado."
+  },
+  {
+    "numero": 9,
+    "grupo": "Detalhe que importa",
+    "abertura": "O tamanho da base faz diferença nesta bandeja.",
+    "entrega": "Comparar apoio e espaço de uma proposta concreta."
+  },
+  {
+    "numero": 10,
+    "grupo": "Comparação honesta",
+    "abertura": "Duas formas de apresentar o mesmo pote.",
+    "entrega": "Mostrar enquadramentos e dizer o que muda."
+  },
+  {
+    "numero": 11,
+    "grupo": "Comparação honesta",
+    "abertura": "Envelope aberto ou fechado: o que você precisa mostrar?",
+    "entrega": "Comparar função de cada imagem."
+  },
+  {
+    "numero": 12,
+    "grupo": "Comparação honesta",
+    "abertura": "Mais espaço vazio ou mais objetos nesta foto?",
+    "entrega": "Explicar a escolha visual sem prometer alcance."
+  },
+  {
+    "numero": 13,
+    "grupo": "Bastidor",
+    "abertura": "Foi assim que escolhi o primeiro plano.",
+    "entrega": "Mostrar a decisão e sua razão."
+  },
+  {
+    "numero": 14,
+    "grupo": "Bastidor",
+    "abertura": "Esta imagem foi criada com IA; veja o que revisei.",
+    "entrega": "Identificar origem e critérios realmente conferidos."
+  },
+  {
+    "numero": 15,
+    "grupo": "Bastidor",
+    "abertura": "A primeira frase mudou depois desta leitura.",
+    "entrega": "Mostrar as duas versões próprias."
+  },
+  {
+    "numero": 16,
+    "grupo": "Limite útil",
+    "abertura": "Um pote ajuda aqui, mas não resolve tudo.",
+    "entrega": "Mostrar o uso e uma limitação concreta."
+  },
+  {
+    "numero": 17,
+    "grupo": "Limite útil",
+    "abertura": "Este envelope é uma ideia para um cartão pequeno.",
+    "entrega": "Delimitar o exemplo, sem prometer capacidade universal."
+  },
+  {
+    "numero": 18,
+    "grupo": "Limite útil",
+    "abertura": "Uma bandeja de papel pede cuidado com o uso.",
+    "entrega": "Explicar limites de material e não inventar teste."
+  },
+  {
+    "numero": 19,
+    "grupo": "Passo específico",
+    "abertura": "Comece escolhendo quais lápis ficam na mesa.",
+    "entrega": "Mostrar um critério de seleção."
+  },
+  {
+    "numero": 20,
+    "grupo": "Passo específico",
+    "abertura": "Separe o cartão antes de planejar o envelope.",
+    "entrega": "Explicar como o conteúdo orienta o tamanho."
+  },
+  {
+    "numero": 21,
+    "grupo": "Passo específico",
+    "abertura": "Defina o lugar da bandeja antes de ocupar a mesa.",
+    "entrega": "Mostrar planejamento de espaço."
+  },
+  {
+    "numero": 22,
+    "grupo": "Curiosidade respondida",
+    "abertura": "O que cabe neste envelope?",
+    "entrega": "Revelar o cartão específico e o limite do exemplo."
+  },
+  {
+    "numero": 23,
+    "grupo": "Curiosidade respondida",
+    "abertura": "Por que deixei este espaço livre na foto?",
+    "entrega": "Explicar área de leitura ou respiro."
+  },
+  {
+    "numero": 24,
+    "grupo": "Curiosidade respondida",
+    "abertura": "Qual destas aberturas mostra melhor a ideia?",
+    "entrega": "Comparar clareza sem fingir teste com audiência."
+  },
+  {
+    "numero": 25,
+    "grupo": "Uma mudança",
+    "abertura": "Mudei só o enquadramento; compare a leitura.",
+    "entrega": "Mostrar antes e depois com condições identificadas."
+  },
+  {
+    "numero": 26,
+    "grupo": "Uma mudança",
+    "abertura": "Retirei uma frase para a explicação respirar.",
+    "entrega": "Apresentar as versões de roteiro."
+  },
+  {
+    "numero": 27,
+    "grupo": "Uma mudança",
+    "abertura": "Troquei o fundo, mantendo o objeto.",
+    "entrega": "Mostrar a comparação e reconhecer alterações involuntárias."
+  },
+  {
+    "numero": 28,
+    "grupo": "Convite à observação",
+    "abertura": "Olhe onde seus materiais mais se acumulam.",
+    "entrega": "Propor observar a própria mesa, sem coletar fotos pessoais."
+  },
+  {
+    "numero": 29,
+    "grupo": "Convite à observação",
+    "abertura": "Repare no que fica escondido dentro do envelope.",
+    "entrega": "Mostrar abertura suficiente para compreender o conteúdo."
+  },
+  {
+    "numero": 30,
+    "grupo": "Convite à observação",
+    "abertura": "Veja se consegue ler esta frase no celular.",
+    "entrega": "Demonstrar tamanho e tempo de leitura."
+  },
+  {
+    "numero": 31,
+    "grupo": "Retomada",
+    "abertura": "A ideia do pote deixou uma pergunta importante.",
+    "entrega": "Responder uma pergunta real ou identificá-la como pergunta do roteiro."
+  },
+  {
+    "numero": 32,
+    "grupo": "Retomada",
+    "abertura": "Hoje mostro o limite que faltou explicar.",
+    "entrega": "Acrescentar um cuidado verdadeiro à ideia anterior."
+  },
+  {
+    "numero": 33,
+    "grupo": "Retomada",
+    "abertura": "O próximo teste muda apenas a abertura.",
+    "entrega": "Apresentar hipótese e o que será mantido."
+  }
+]

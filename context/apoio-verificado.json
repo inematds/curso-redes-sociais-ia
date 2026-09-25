@@ -1,0 +1,32 @@
+{
+  "planner": "7 dias; persistência, exportação, importação e rejeição sem perda verificadas",
+  "calculo": "2%, 3%, base zero/ausente/inválida e ação ausente conferidas",
+  "aberturas": 33,
+  "layouts": [
+    {
+      "arquivo": "planner.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "caderno.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "hooks.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "landing.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    }
+  ],
+  "errors": []
+}

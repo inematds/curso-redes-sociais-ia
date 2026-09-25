@@ -1,0 +1,69 @@
+{
+  "id": "redes-sociais-v62",
+  "titulo": "Redes Sociais para Criadores IA: o Sistema Viral v6.2",
+  "titulo_html": "Crie com intenção. <em>Aprenda com a resposta.</em>",
+  "curso_curto": "Redes Sociais v6.2",
+  "kicker": "Criação v6.2 · 6 módulos · 18 aulas",
+  "lead": "Uma rotina de pesquisa, produção e observação para publicar com clareza. Sem promessa de viralização.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "Criadora e artesão planejam conteúdo numa oficina.",
+  "rodape": "Redes Sociais v6.2 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "glossario": true,
+  "modulos": [
+    {
+      "titulo": "Módulo 1 · Perfil e promessa",
+      "resumo": "Defina público, rede e apresentação verdadeira.",
+      "aulas": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "titulo": "Módulo 2 · Testar, observar e repetir",
+      "resumo": "Compare decisões e organize formatos com limites claros.",
+      "aulas": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "titulo": "Módulo 3 · Pesquisa e adaptação",
+      "resumo": "Estude dez referências e crie três ideias próprias.",
+      "aulas": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "titulo": "Módulo 4 · Edição e publicação",
+      "resumo": "Prepare revisão, identificação e lista de conferência.",
+      "aulas": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "titulo": "Módulo 5 · Aberturas e roteiros",
+      "resumo": "Use 33 exemplos autorais e cumpra a promessa inicial.",
+      "aulas": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "titulo": "Módulo 6 · Uma semana de execução",
+      "resumo": "Planeje, publique um vídeo e observe sem inventar resultados.",
+      "aulas": [
+        16,
+        17,
+        18
+      ]
+    }
+  ]
+}
