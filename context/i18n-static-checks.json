@@ -1,0 +1,92 @@
+[
+  {
+    "locale": "pt",
+    "file": "caderno.html",
+    "ids": 22,
+    "passed": true
+  },
+  {
+    "locale": "pt",
+    "file": "curso.html",
+    "ids": 48,
+    "passed": true
+  },
+  {
+    "locale": "pt",
+    "file": "hooks.html",
+    "ids": 0,
+    "passed": true
+  },
+  {
+    "locale": "pt",
+    "file": "landing.html",
+    "ids": 7,
+    "passed": true
+  },
+  {
+    "locale": "pt",
+    "file": "planner.html",
+    "ids": 6,
+    "passed": true
+  },
+  {
+    "locale": "en",
+    "file": "caderno.html",
+    "ids": 22,
+    "passed": true
+  },
+  {
+    "locale": "en",
+    "file": "curso.html",
+    "ids": 48,
+    "passed": true
+  },
+  {
+    "locale": "en",
+    "file": "hooks.html",
+    "ids": 0,
+    "passed": true
+  },
+  {
+    "locale": "en",
+    "file": "landing.html",
+    "ids": 7,
+    "passed": true
+  },
+  {
+    "locale": "en",
+    "file": "planner.html",
+    "ids": 6,
+    "passed": true
+  },
+  {
+    "locale": "es",
+    "file": "caderno.html",
+    "ids": 22,
+    "passed": true
+  },
+  {
+    "locale": "es",
+    "file": "curso.html",
+    "ids": 48,
+    "passed": true
+  },
+  {
+    "locale": "es",
+    "file": "hooks.html",
+    "ids": 0,
+    "passed": true
+  },
+  {
+    "locale": "es",
+    "file": "landing.html",
+    "ids": 7,
+    "passed": true
+  },
+  {
+    "locale": "es",
+    "file": "planner.html",
+    "ids": 6,
+    "passed": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "locale": "pt",
+    "lessons": 18,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "desktopThemes": true,
+    "images": true,
+    "support": [
+      {
+        "file": "caderno.html",
+        "rateCalculation": true,
+        "invalidBaseRejected": true
+      },
+      {
+        "file": "planner.html",
+        "persistence": true,
+        "exportImport": true,
+        "crossLanguageRejected": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "locale": "en",
+    "lessons": 18,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "desktopThemes": true,
+    "images": true,
+    "support": [
+      {
+        "file": "caderno.html",
+        "rateCalculation": true,
+        "invalidBaseRejected": true
+      },
+      {
+        "file": "planner.html",
+        "persistence": true,
+        "exportImport": true,
+        "crossLanguageRejected": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "locale": "es",
+    "lessons": 18,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "desktopThemes": true,
+    "images": true,
+    "support": [
+      {
+        "file": "caderno.html",
+        "rateCalculation": true,
+        "invalidBaseRejected": true
+      },
+      {
+        "file": "planner.html",
+        "persistence": true,
+        "exportImport": true,
+        "crossLanguageRejected": true
+      }
+    ],
+    "errors": []
+  }
+]

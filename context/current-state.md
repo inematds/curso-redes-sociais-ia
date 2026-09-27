@@ -1,5 +1,3 @@
-# Estado
+# Estado atual
 
-Conteúdo aprovado: 18/18 aulas nota10; motor26/26; dois leitores simulados por aula, notas finais>=9. Planejador: persistência, exportação, importação e rejeição de arquivo inválido sem perda; calculadora com base zero/ausente; quatro páginas de apoio sem transbordamento a390px. Evidências em auditoria.json, apoio-verificado.json e leitor-*.md.
-
-Publicação por git/GitHub Pages; portal, busca e PRO atualizados na etapa final. Dados e casos fictícios claramente identificados; nenhuma rede externa operada.
+Conteúdo 6.3.0, formato OSWork v6.2. Edições completas em PT/EN/ES. Tradução com GPT-6 Luna nativo Codex; sem API externa. Catálogos em i18n/, montagem offline em scripts/. Evidências em validacao-i18n.md.
